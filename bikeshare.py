@@ -165,7 +165,7 @@ def time_stats(df):
 def station_stats(df):
     """Displays statistics on the most popular stations and trip."""
 
-    print('\nThe Most Popular Stations and Trip...\n')
+    print('\nThe Most Popular Stations and Trip in Bikeshare...\n')
     start_time = time.time()
 
     # Display most commonly used start station
