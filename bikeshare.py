@@ -103,7 +103,7 @@ def load_data(city, month, day):
 def time_stats(df):
     """Displays statistics on the most frequent times of travel."""
 
-    print('\nThe Most Popular Times of Travel...\n')
+    print('\nThe Most Popular Times of Bike Travel...\n')
     start_time = time.time()
 
     # Convert the Start Time to datetime
