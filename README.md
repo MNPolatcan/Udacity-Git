@@ -5,7 +5,7 @@ Project is created in 18.10.2020
 Project title is Udacity-Git
 
 ### Description
-Describe what your project is about and what it does
+This project is submitted in order to complete programming for data science nanodegree in udacity.
 
 ### Files used
 files used :
