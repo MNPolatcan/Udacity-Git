@@ -1,6 +1,8 @@
 
 """
 Mustafa Necip Polatcan - Turkcell Energy Solutions
+mustafa.polatcan@turkcell.com.tr
+
 """
 import time
 import pandas as pd
